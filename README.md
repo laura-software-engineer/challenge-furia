@@ -23,6 +23,10 @@ Criar uma experiência digital para os fãs do time de Counter-Strike da FURIA, 
 - JavaScript
 - Dialogflow
 
+## :open_file_folder: Acesso Ao Projeto
+
+Você pode [acessar a página web do projeto aqui](https://challenge-furia-two.vercel.app).
+
 ## :ok_woman: Desenvolvedora
 
 [Laura Tenan](https://github.com/laura-software-engineer)
